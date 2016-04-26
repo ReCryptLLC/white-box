@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wb_creator", "wb_creator\wb_creator.vcxproj", "{A712320D-0877-4959-A9DD-E4E8DDAD5DE2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wb_sample", "wb_sample\wb_sample.vcxproj", "{97D1D020-01B8-44AB-881D-1E4E674E6731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A712320D-0877-4959-A9DD-E4E8DDAD5DE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A712320D-0877-4959-A9DD-E4E8DDAD5DE2}.Debug|Win32.Build.0 = Debug|Win32
+		{A712320D-0877-4959-A9DD-E4E8DDAD5DE2}.Release|Win32.ActiveCfg = Release|Win32
+		{A712320D-0877-4959-A9DD-E4E8DDAD5DE2}.Release|Win32.Build.0 = Release|Win32
+		{97D1D020-01B8-44AB-881D-1E4E674E6731}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97D1D020-01B8-44AB-881D-1E4E674E6731}.Debug|Win32.Build.0 = Debug|Win32
+		{97D1D020-01B8-44AB-881D-1E4E674E6731}.Release|Win32.ActiveCfg = Release|Win32
+		{97D1D020-01B8-44AB-881D-1E4E674E6731}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+EndGlobal
