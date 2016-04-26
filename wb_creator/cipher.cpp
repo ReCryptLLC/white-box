@@ -148,7 +148,7 @@ void CCipherCreator::FlashOneFile( std::string const& fname, std::string const& 
 
     std::string str_wb( "/*****************************************************************************************\n" );
     str_wb += "Automatically generated white-box tables\n";
-    str_wb += "Dmitry Schelkunov, 2009\n";
+    str_wb += "Dmitry Schelkunov, 2016\n";
     str_wb += "*****************************************************************************************/\n\n\n";
     str_wb += "#include \"stdtypes.h\"\n#ifndef " + str_name + "_H\n#define " + str_name + "_H\n\n";
 
